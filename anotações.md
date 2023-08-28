@@ -1,3 +1,7 @@
+#GIT TUTORIAL DE UMA MINA MUITO FODA 
+
+https://github.com/rafaballerini/GitTutorial
+
 # PROJETO FRONT-END GRUPO 4D
 
 Primeiro encontro com o "cliente">
