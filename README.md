@@ -1,3 +1,3 @@
 # Grupo-4D
 
-Projeto site mostrando dados meteorológicos. g
+Projeto site mostrando dados meteorológicos. 
