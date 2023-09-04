@@ -6,18 +6,19 @@ para mudar de 'master' para 'main'
 
 # PROJETO FRONT-END GRUPO 4D
 
-Primeiro encontro com o "cliente">
+## Primeiro encontro com o "cliente">
 
 Empresa Nimbus Meteorologia, criada em 2020.
 Desafio proposto pelo centro de operações do RJ: Monitora a meteorologia (previsão e impacto de chuvas)
 
 Aprimorar a previsão de chuvas principalmente para a malha rodoviaria, precisão para ajudar não só dentro da cidade mas também para o mercado de construção civil (obras na via, em lagos).
-
-Plataforma: absorve os dados meteorologicos como radares que monitoram as nuvens em tempo real; dados de raios, descarga eletrica, dados de estações, vento/chuva, umidade, localização da obra, cronograma para a tomada de decisão para fornecer previsões por equações fisicas e matemáticas para facilitar o planejamento da obra.
+### Oque a plataforma faz?
+Ela absorve os dados meteorologicos como radares que monitoram as nuvens em tempo real; dados de raios, descarga eletrica, dados de estações, vento/chuva, umidade, localização da obra, cronograma para a tomada de decisão para fornecer previsões por equações fisicas e matemáticas para facilitar o planejamento da obra.
 
 Solução Cronos:
 Página de mapa para previsão por área, previsão em grafico, alertas, gps e radares.
 
+## Pontos a serem melhorados:
 Histórico de dados:
 Armazena no banco de dados para depois serem recuperados por uma API e exportados em formato de arquivo de tabela.
 
