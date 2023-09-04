@@ -43,7 +43,7 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 
 **>>>SER EXPORTAVEL PARA CSV e PDF<<<**.
 
-# Perguntas feitas ao cliente>
+# Perguntas feitas ao cliente e ideias>
 
 Atualmente a demanda em geral fica em: RJ, SP e CURITIBA
 
