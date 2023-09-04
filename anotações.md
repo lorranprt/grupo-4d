@@ -25,11 +25,11 @@ Armazena no banco de dados para depois serem recuperados por uma API e exportado
 1. Histórico de dados>
 Armazena no banco de dados para depois serem recuperados por uma API e exportados em formato de arquivo de tabela. Desafio: Novo histórico de dados e CRIAR uma página mais robusta que disponibilize dados nessa forma:
 
-Tabelas, Gráficos (lineares, barras e vetores);
-Marcadores Georeferenciados em um mapa;
-Botões para exportação para csv, pdf e png;
-Interação entre os componentes;
-Adaptação para mobile ((((((((MOBILE FIRST)))))))).
+>Tabelas, Gráficos (lineares, barras e vetores);
+>Marcadores Georeferenciados em um mapa;
+>Botões para exportação para csv, pdf e png;
+>Interação entre os componentes;
+>Adaptação para mobile ((((((((MOBILE FIRST)))))))).
 
 2. Requisição de dados>
 Deve ser feita através de um formulário que ira considerar uma serie de critérios como filtro, com data inicial, data final, tipo de variavel meteorologica, estação ou ponto de monitoramento, frequência e operação matemática utilizada.
