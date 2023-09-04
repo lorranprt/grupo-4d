@@ -2,7 +2,7 @@ PS: Por favor usem o comando:
 ```
 git branch -M "main"
 ```
-para mudar de 'master' para 'main' COMO DITO NO TUTORIAL ACIMA. 
+para mudar de 'master' para 'main'
 
 # PROJETO FRONT-END GRUPO 4D
 
