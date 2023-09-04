@@ -22,7 +22,7 @@ Página de mapa para previsão por área, previsão em grafico, alertas, gps e r
 Histórico de dados:
 Armazena no banco de dados para depois serem recuperados por uma API e exportados em formato de arquivo de tabela.
 
-1. Histórico de dados>
+1. **Histórico de dados**>
 Armazena no banco de dados para depois serem recuperados por uma API e exportados em formato de arquivo de tabela. Desafio: Novo histórico de dados e CRIAR uma página mais robusta que disponibilize dados nessa forma:
 
 - Tabelas, Gráficos (lineares, barras e vetores);
@@ -31,21 +31,22 @@ Armazena no banco de dados para depois serem recuperados por uma API e exportado
 - Interação entre os componentes;
 - Adaptação para mobile (MOBILE FIRST).
 
-2. Requisição de dados>
+2. **Requisição de dados**>
 Deve ser feita através de um formulário que ira considerar uma serie de critérios como filtro, com data inicial, data final, tipo de variavel meteorologica, estação ou ponto de monitoramento, frequência e operação matemática utilizada.
     Chegar até a requisição da API.
 
-3. Mapa interativo>
+3. **Mapa interativo**>
 Com marcadores para cada ponto de monitoramento ou estação, preenchimento de cor de acordo com critérios de criticiedade, retorno do histórico de um ou mais pontos mediante a interação com o marcador, seja utilizando poligonos para selecionar um ou mais pontos, ou seja através de um click individual.
 
-4. Gráfico mais estéticamente organizado (noob friendly)
+4. **Gráfico mais estéticamente organizado** (noob friendly)
 Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza (eixo vertical) ao tipo de variavel exibida, interagir com o gráfico e selecionar quais variaveis são exibidas simultaneamente. Apresentar uma otimização estética em termos de desempenho, responsividade e intuitividade.
 
-SER EXPORTAVEL PARA CSV e PDF.
+**SER EXPORTAVEL PARA CSV e PDF**.
 
 # Perguntas feitas ao cliente>
 
-Atualmente a demanda em RJ, SP e CURITIBA
+Atualmente a demanda em geral fica em: RJ, SP e CURITIBA
+
 IDEIA: Mapa tenha foco em uma estação em especifico (o usuário escolha a que quiser)
 
 Quem usa o sistema normalmente? pessoas/principalmente empresas que contratam o serviço (setores de planejamento, engenheiro, meteorologistas)
