@@ -29,7 +29,7 @@ Armazena no banco de dados para depois serem recuperados por uma API e exportado
 - Marcadores Georeferenciados em um mapa;
 - Botões para exportação para csv, pdf e png;
 - Interação entre os componentes;
-- Adaptação para mobile ((((((((MOBILE FIRST)))))))).
+- Adaptação para mobile (MOBILE FIRST).
 
 2. Requisição de dados>
 Deve ser feita através de um formulário que ira considerar uma serie de critérios como filtro, com data inicial, data final, tipo de variavel meteorologica, estação ou ponto de monitoramento, frequência e operação matemática utilizada.
