@@ -25,11 +25,11 @@ Armazena no banco de dados para depois serem recuperados por uma API e exportado
 1. Histórico de dados>
 Armazena no banco de dados para depois serem recuperados por uma API e exportados em formato de arquivo de tabela. Desafio: Novo histórico de dados e CRIAR uma página mais robusta que disponibilize dados nessa forma:
 
->Tabelas, Gráficos (lineares, barras e vetores);
->Marcadores Georeferenciados em um mapa;
->Botões para exportação para csv, pdf e png;
->Interação entre os componentes;
->Adaptação para mobile ((((((((MOBILE FIRST)))))))).
+- Tabelas, Gráficos (lineares, barras e vetores);
+- Marcadores Georeferenciados em um mapa;
+- Botões para exportação para csv, pdf e png;
+- Interação entre os componentes;
+- Adaptação para mobile ((((((((MOBILE FIRST)))))))).
 
 2. Requisição de dados>
 Deve ser feita através de um formulário que ira considerar uma serie de critérios como filtro, com data inicial, data final, tipo de variavel meteorologica, estação ou ponto de monitoramento, frequência e operação matemática utilizada.
@@ -39,7 +39,7 @@ Deve ser feita através de um formulário que ira considerar uma serie de crité
 Com marcadores para cada ponto de monitoramento ou estação, preenchimento de cor de acordo com critérios de criticiedade, retorno do histórico de um ou mais pontos mediante a interação com o marcador, seja utilizando poligonos para selecionar um ou mais pontos, ou seja através de um click individual.
 
 4. Gráfico mais estéticamente organizado (noob friendly)
-Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza (eixo vertical) so yipo de variavel exibida, interagir com o gráfico e selecionar quais variaveis são exibidas simultaneamente. Apresentar uma otimização estética em termos de desempenho, responsividade e intuitividade.
+Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza (eixo vertical) ao tipo de variavel exibida, interagir com o gráfico e selecionar quais variaveis são exibidas simultaneamente. Apresentar uma otimização estética em termos de desempenho, responsividade e intuitividade.
 
 SER EXPORTAVEL PARA CSV e PDF.
 
