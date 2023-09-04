@@ -41,7 +41,7 @@ Com marcadores para cada ponto de monitoramento ou estação, preenchimento de c
 4. **Gráfico mais estéticamente organizado** (noob friendly)
 Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza (eixo vertical) ao tipo de variavel exibida, interagir com o gráfico e selecionar quais variaveis são exibidas simultaneamente. Apresentar uma otimização estética em termos de desempenho, responsividade e intuitividade.
 
-**SER EXPORTAVEL PARA CSV e PDF**.
+**>>>SER EXPORTAVEL PARA CSV e PDF<<<**.
 
 # Perguntas feitas ao cliente>
 
