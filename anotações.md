@@ -1,7 +1,3 @@
-# GIT TUTORIAL DE UMA MINA MUITO FODA 
-
-https://github.com/rafaballerini/GitTutorial
-
 PS: Por favor usem o comando: 
 ```
 git branch -M "main"
