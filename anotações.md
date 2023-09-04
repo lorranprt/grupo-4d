@@ -12,7 +12,7 @@ Empresa Nimbus Meteorologia, criada em 2020.
 Desafio proposto pelo centro de operações do RJ: Monitora a meteorologia (previsão e impacto de chuvas)
 
 Aprimorar a previsão de chuvas principalmente para a malha rodoviaria, precisão para ajudar não só dentro da cidade mas também para o mercado de construção civil (obras na via, em lagos).
-### Oque a plataforma faz?
+### O que a plataforma faz?
 Ela absorve os dados meteorologicos como radares que monitoram as nuvens em tempo real; dados de raios, descarga eletrica, dados de estações, vento/chuva, umidade, localização da obra, cronograma para a tomada de decisão para fornecer previsões por equações fisicas e matemáticas para facilitar o planejamento da obra.
 
 Solução Cronos:
