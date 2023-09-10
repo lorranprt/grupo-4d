@@ -43,11 +43,15 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 
 RF1 - O sistema deverá absorver e apresentar os dados meteorológicos
 e as equações matemáticas e físicas necessárias na tela principal.
+
 RF2 - Os dados serão atualizados em tempo real
+
 RF3 - Na area superior da tela, o sistema deve apresentar 4 abas,
 página principal, histórico de dados, requisição de dados e o mapa
+
 RF4 - Na aba histórico de dados, os dados serão armazenados para 
 poderem ser posteriormente recuperados
+
 RF5 - Os dados devem ser apresentados através de tabelas, gráficos 
 (lineares, barras e vetores) e marcadores georeferenciados em um mapa.
 
