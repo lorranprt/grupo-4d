@@ -17,9 +17,15 @@ Eles darão dados "mentirosos" para podemos trabalhar com o projeto.
 
 
 What: Ação que deve ser executada, ou problema a ser solucionado;
+
 Why: Justificativa dos motivos e objetivos daquilo estar sendo executado ou solucionado;
+
 Who: Definição de quem será (serão) o(s) responsável(eis) pela execução do que foi planejado;
+
 Where: Informação sobre onde cada um dos procedimentos será executado;
+
 When: Cronograma sobre quando ocorrerão os procedimentos;
+
 How: Explicação sobre como serão executados os procedimentos para atingir os objetivos pré-estabelecidos;
+
 How Much: Limitação de quanto custará cada procedimento e o custo total do que será feito?
