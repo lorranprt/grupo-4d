@@ -55,7 +55,7 @@ meteorologistas)
 
 # Requisitos Funcionais:
 
-•    RF1 - O sistema deverá absorver e apresentar os dados meteorológicos e as equações matemáticas e físicas necessárias na tela principal. 
+- RF1: O sistema deverá absorver e apresentar os dados meteorológicos e as equações matemáticas e físicas necessárias na tela principal. 
 •    RF2 - Os dados serão atualizados em tempo real 
 •    RF3 - Na área superior da tela, o sistema deve apresentar 2 abas, página principal e histórico de dados
 •    RF4 - Na aba histórico de dados, os dados serão armazenados para poderem ser posteriormente recuperados 
