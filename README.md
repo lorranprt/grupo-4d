@@ -41,18 +41,18 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 
 ## Requisitos Funcionais:
 
-RF1 - O sistema deverá absorver e apresentar os dados meteorológicos
+- RF1: O sistema deverá absorver e apresentar os dados meteorológicos
 e as equações matemáticas e físicas necessárias na tela principal.
 
-RF2 - Os dados serão atualizados em tempo real
+- RF2: Os dados serão atualizados em tempo real
 
-RF3 - Na area superior da tela, o sistema deve apresentar 4 abas,
+- RF3: Na area superior da tela, o sistema deve apresentar 4 abas,
 página principal, histórico de dados, requisição de dados e o mapa
 
-RF4 - Na aba histórico de dados, os dados serão armazenados para 
+- RF4: Na aba histórico de dados, os dados serão armazenados para 
 poderem ser posteriormente recuperados
 
-RF5 - Os dados devem ser apresentados através de tabelas, gráficos 
+- RF5: Os dados devem ser apresentados através de tabelas, gráficos 
 (lineares, barras e vetores) e marcadores georeferenciados em um mapa.
 
 # 5W2H
