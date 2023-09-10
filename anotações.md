@@ -3,7 +3,7 @@ PS: Por favor usem o comando:
 git branch -M "main"
 ```
 para mudar de 'master' para 'main'
-# Perguntas feitas ao cliente e ideias>
+# Perguntas feitas ao cliente>
 
 Atualmente a demanda em geral fica em: RJ, SP e CURITIBA
 
@@ -15,7 +15,7 @@ Quais serão os dados? As estações tem sensores diferentes com medidas e seman
 
 Eles darão dados "mentirosos" para podemos trabalhar com o projeto.
 
-
+# 5W2H
 What: Ação que deve ser executada, ou problema a ser solucionado;
 
 Why: Justificativa dos motivos e objetivos daquilo estar sendo executado ou solucionado;
