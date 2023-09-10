@@ -38,24 +38,39 @@ Com marcadores para cada ponto de monitoramento ou estação, preenchimento de c
 Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza (eixo vertical) ao tipo de variavel exibida, interagir com o gráfico e selecionar quais variaveis são exibidas simultaneamente. Apresentar uma otimização estética em termos de desempenho, responsividade e intuitividade.
 
 **>>>SER EXPORTAVEL PARA CSV e PDF<<<**.
-
-## Requisitos Funcionais:
-
-- RF1: O sistema deverá absorver e apresentar os dados meteorológicos
-e as equações matemáticas e físicas necessárias na tela principal.
-
-- RF2: Os dados serão atualizados em tempo real
-
-- RF3: Na area superior da tela, o sistema deve apresentar 4 abas,
-página principal, histórico de dados, requisição de dados e o mapa
-
-- RF4: Na aba histórico de dados, os dados serão armazenados para 
-poderem ser posteriormente recuperados
-
-- RF5: Os dados devem ser apresentados através de tabelas, gráficos 
-(lineares, barras e vetores) e marcadores georeferenciados em um mapa.
-
 # 5W2H
 
+1. Por que? R:
+
+2. O que? R: 
+
+3. Quem? R: Pessoas/Principalmente empresas que contratam o serviço (setores de planejamento, engenheiro, 
+meteorologistas)
+
+4. Quando? R: A entrada de dados é feita o tempo todo. Porém a consulta do cliente depende do horário desejado, seja 24H direto ou um planejamento programado.
+
+5. Onde? R:
+
+6. Como? R: Será feita uma requisitação de dados através de um formulário feita pelo usuário, os dados serão recuperados através de uma API e após isso será exportado no formato de arquivo de tabela.
+
+# Requisitos Funcionais:
+
+•    RF1 - O sistema deverá absorver e apresentar os dados meteorológicos e as equações matemáticas e físicas necessárias na tela principal. 
+•    RF2 - Os dados serão atualizados em tempo real 
+•    RF3 - Na área superior da tela, o sistema deve apresentar 2 abas, página principal e histórico de dados
+•    RF4 - Na aba histórico de dados, os dados serão armazenados para poderem ser posteriormente recuperados 
+•    RF5 - Os dados devem ser apresentados através de tabelas, gráficos (lineares, barras e vetores) e marcadores georreferenciados em um mapa. 
+•    RF6 - Na parte superior da tela será reservada para o requisito de dados através de um formulário. 
+•    RF7 - Esse formulário irá considerar uma série de critérios de filtro, com data inicial, data final, tipo de variável meteorológica, estação ou ponto de monitoramento, frequência e operação matemática utilizada. 
+•    RF8 - No centro da tela terá um gráfico interativo. 
+•    RF9 - O gráfico será dinâmico e adaptará a frequência temporal, representada no eixo horizontal, e a ordem de grandeza no vertical, ao tipo de variável exibida 
+•    RF10 - Na parte superior do gráfico terá uma opção para selecionar quais variáveis serão exibidas. 
+•    RF11 - Na parte inferior à esquerda da tela terá o mapa interativo com marcadores para cada ponto de monitoramento ou estação. 
+•    RF12 - Os marcadores terão cores de acordo com a situação meteorológica do local.
+•    RF13 – O usuário pode interagir com os marcadores para obter mais informações do local.
+•    RF14 – Essa interação pode ser feita através de um único clique ou a ferramenta de polígono para selecionar um ou mais marcadores
+•    RF15 – Na parte inferior à direita da tela terá a tabela com as informações da área selecionada.
+•    RF16 – O usuário será capaz de exportar todas essas informações para os formatos CSV, PDF e PNG
+•    RF17 – O botão para exportação se encontrará logo acima do recurso desejado, ou seja, se o usuário deseja gerar um PNG do mapa, deverá procurar o botão logo acima do mapa
 
 
