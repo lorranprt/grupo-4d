@@ -68,7 +68,7 @@ meteorologistas)
 - **RF16:** O usuário será capaz de exportar todas essas informações para os formatos CSV, PDF e PNG
 - **RF17:** O botão para exportação se encontrará logo acima do recurso desejado, ou seja, se o usuário deseja gerar um PNG do mapa, deverá procurar o botão logo acima do mapa
 
-  # Requisitos não-funcionais:
+# Requisitos não-funcionais:
 
 1. Usabilidade
 	- US1: O software deve ser confiável, e ter o mínimo de falhas possível, não apresentando erros na maioria das vezes que for utilizado.
