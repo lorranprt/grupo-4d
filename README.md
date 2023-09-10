@@ -39,19 +39,13 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 
 **>>>SER EXPORTAVEL PARA CSV e PDF<<<**.
 # 5W2H
-
-1. Por que? R:
-
-2. O que? R: 
-
+1. O que? R: Ela absorve os dados meteorologicos como: radares que monitoram as nuvens em tempo real.
+2. Por que? R: Para fornecer previsões por equações físicas e matemátcias para facilitar o planejamento da obra.
 3. Quem? R: Pessoas/Principalmente empresas que contratam o serviço (setores de planejamento, engenheiro, 
 meteorologistas)
-
 4. Quando? R: A entrada de dados é feita o tempo todo. Porém a consulta do cliente depende do horário desejado, seja 24H direto ou um planejamento programado.
-
-5. Onde? R:
-
 6. Como? R: Será feita uma requisitação de dados através de um formulário feita pelo usuário, os dados serão recuperados através de uma API e após isso será exportado no formato de arquivo de tabela.
+5. Onde? R: As informações sobre onde cada um dos procedimentos será executado vai ser econtrado no próximo tópico que se referem aos Requisitos Funcionais.
 
 # Requisitos Funcionais:
 
