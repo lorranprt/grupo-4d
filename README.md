@@ -38,6 +38,7 @@ Com marcadores para cada ponto de monitoramento ou estação, preenchimento de c
 Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza (eixo vertical) ao tipo de variavel exibida, interagir com o gráfico e selecionar quais variaveis são exibidas simultaneamente. Apresentar uma otimização estética em termos de desempenho, responsividade e intuitividade.
 
 **>>>SER EXPORTAVEL PARA CSV e PDF<<<**.
+
 # 5W2H
 1. **O que?** R: Ela absorve os dados meteorologicos como: radares que monitoram as nuvens em tempo real.
 2. **Por que?** R: Para fornecer previsões por equações físicas e matemátcias para facilitar o planejamento da obra.
@@ -66,5 +67,16 @@ meteorologistas)
 - **RF15:** Na parte inferior à direita da tela terá a tabela com as informações da área selecionada.
 - **RF16:** O usuário será capaz de exportar todas essas informações para os formatos CSV, PDF e PNG
 - **RF17:** O botão para exportação se encontrará logo acima do recurso desejado, ou seja, se o usuário deseja gerar um PNG do mapa, deverá procurar o botão logo acima do mapa
+
+  # Requisitos não-funcionais:
+
+1. Usabilidade
+	- US1: O software deve ser confiável, e ter o mínimo de falhas possível, não apresentando erros na maioria das vezes que for utilizado.
+2. Confiabilidade
+	- CF1: Só é aceitável uma pequena porcentagem de falhas.
+3. Portabilidade
+	- PR1: O software deverá ter acessibilidade para mobile.
+	- PR2: O site deverá ser totalmente responsivo.
+
 
 
