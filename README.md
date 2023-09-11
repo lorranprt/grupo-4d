@@ -40,7 +40,7 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 **>>>SER EXPORTAVEL PARA CSV e PDF<<<**.
 
 # 5W2H
-1. **O que?** R: Ela absorve os dados meteorológicos como: radares que monitoram as nuvens em tempo real.
+1. **O que?** R: O sistema absorve os dados meteorológicos como: radares que monitoram as nuvens em tempo real.
 2. **Por que?** R: Para fornecer previsões por equações físicas e matemátcias para facilitar o planejamento da obra.
 3. **Quem?** R: Pessoas/Principalmente empresas que contratam o serviço (setores de planejamento, engenheiro, 
 meteorologistas)
