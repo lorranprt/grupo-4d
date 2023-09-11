@@ -9,10 +9,10 @@ Desafio proposto pelo centro de operações do RJ: Monitora a meteorologia (prev
 
 Aprimorar a previsão de chuvas principalmente para a malha rodoviaria, precisão para ajudar não só dentro da cidade mas também para o mercado de construção civil (obras na via, em lagos).
 ### O que a plataforma faz?
-Ela absorve os dados meteorologicos como radares que monitoram as nuvens em tempo real; dados de raios, descarga eletrica, dados de estações, vento/chuva, umidade, localização da obra, cronograma para a tomada de decisão para fornecer previsões por equações fisicas e matemáticas para facilitar o planejamento da obra.
+Ela absorve os dados meteorológicos como radares que monitoram as nuvens em tempo real; dados de raios, descarga elétrica, dados de estações, vento/chuva, umidade, localização da obra, cronograma para a tomada de decisão para fornecer previsões por equações fisicas e matemáticas para facilitar o planejamento da obra.
 
 Solução Cronos:
-Página de mapa para previsão por área, previsão em grafico, alertas, gps e radares.
+Página de mapa para previsão por área, previsão em gráfico, alertas, gps e radares.
 
 ## Pontos a serem melhorados:
 Histórico de dados:
@@ -35,12 +35,12 @@ Deve ser feita através de um formulário que ira considerar uma serie de crité
 Com marcadores para cada ponto de monitoramento ou estação, preenchimento de cor de acordo com critérios de criticiedade, retorno do histórico de um ou mais pontos mediante a interação com o marcador, seja utilizando poligonos para selecionar um ou mais pontos, ou seja através de um click individual.
 
 4. **Gráfico mais estéticamente organizado** (noob friendly)
-Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza (eixo vertical) ao tipo de variavel exibida, interagir com o gráfico e selecionar quais variaveis são exibidas simultaneamente. Apresentar uma otimização estética em termos de desempenho, responsividade e intuitividade.
+Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza (eixo vertical) ao tipo de variável exibida, interagir com o gráfico e selecionar quais variáveis são exibidas simultaneamente. Apresentar uma otimização estética em termos de desempenho, responsividade e intuitividade.
 
 **>>>SER EXPORTAVEL PARA CSV e PDF<<<**.
 
 # 5W2H
-1. **O que?** R: Ela absorve os dados meteorologicos como: radares que monitoram as nuvens em tempo real.
+1. **O que?** R: Ela absorve os dados meteorológicos como: radares que monitoram as nuvens em tempo real.
 2. **Por que?** R: Para fornecer previsões por equações físicas e matemátcias para facilitar o planejamento da obra.
 3. **Quem?** R: Pessoas/Principalmente empresas que contratam o serviço (setores de planejamento, engenheiro, 
 meteorologistas)
