@@ -2,7 +2,7 @@
 
 # PROJETO FRONT-END GRUPO 4D
 
-## Primeiro encontro com o "cliente">
+## Primeiro encontro com o cliente>
 
 Empresa Nimbus Meteorologia, criada em 2020.
 Desafio proposto pelo centro de operações do RJ: Monitora a meteorologia (previsão e impacto de chuvas)
