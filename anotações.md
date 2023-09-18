@@ -33,3 +33,9 @@ quanto: Limitação de quanto custará cada procedimento e o custo total do que 
 
 proxima semana: Casos de usos do sistema
 O que leva a pessoa a usar o sistema, em que situação e para o que (não é o diagrama de caso de uso)
+
+obrigatório 
+casos de uso
+opcional telas
+
+
