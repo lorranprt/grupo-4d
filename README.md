@@ -1,10 +1,10 @@
 # Grupo-4D
 Integrantes:
-**
-**Lorran Porto**
-**Hannah Martins**
-**Guilherme Vallim**
-**João Gois**
+
+- **Lorran Porto**
+- **Hannah Martins**
+- **Guilherme Vallim**
+- **João Gois**
 
 # PROJETO FRONT-END GRUPO 4D
 
