@@ -1,5 +1,10 @@
 # Grupo-4D
-
+Integrantes:
+**
+**Lorran Porto**
+**Hannah Martins**
+**Guilherme Vallim**
+**João Gois**
 # PROJETO FRONT-END GRUPO 4D
 
 ## Primeiro encontro com o cliente>
@@ -75,5 +80,4 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 - RNF3: O software deverá ter acessibilidade para mobile.
 - RNF4: Deverá ser feito em React.
 - RNF5: O site deverá ser totalmente responsivo.
-
 
