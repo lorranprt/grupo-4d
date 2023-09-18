@@ -52,7 +52,7 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 4. **Quando?** R: A entrada de dados é feita o tempo todo. Porém a consulta do cliente depende do horário desejado, seja 24H direto ou um planejamento programado.
 6. **Como?** R: Será feita uma requisitação de dados através de um formulário feita pelo usuário, os dados serão recuperados através de uma API e após isso será exportado no formato de arquivo de tabela.
 5. **Onde?** R: Será utilizado em situações de preparação de obras e em pesquisas meteorológicas.
-6. **Quanto?** R: O tempo de desenvolvimento do programador.
+6. **Quanto?** R: O tempo de desenvolvimento do programador e da empresa.
 
 # Propósito do Sistema:
 Apresentar os dados meteorológicos de forma organizada, para que possam ser adicionados, armazenados, editados e exportados com agilidade e facilidade, tendo um banco de dados para guardar as informações anteriores a fim de comparação e estudos. Além disso, ser adaptado para facilitar o uso e expandir os consumidores da plataforma.
