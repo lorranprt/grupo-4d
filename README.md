@@ -52,19 +52,19 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 
 - **RF1:** O sistema deverá absorver e apresentar os dados meteorológicos e as equações matemáticas e físicas necessárias na tela principal. 
 - **RF2:** O sistema deverá ter os dados atualizados em tempo real. 
-- **RF3:** O sistema tera na área superior da tela, o sistema deve apresentar 2 abas, página principal e histórico de dados.
+- **RF3:** O sistema terá 2 abas na área superior da tela, página principal e histórico de dados.
 - **RF4:** O sistema deverá ter uma aba histórico de dados, onde os dados serão armazenados para poderem ser posteriormente recuperados.
-- **RF5:** O sistema terá seus dadso apresentados através de tabelas, gráficos (lineares, barras e vetores) e marcadores georreferenciados em um mapa. 
+- **RF5:** O sistema terá seus dados apresentados através de tabelas, gráficos (lineares, barras e vetores) e marcadores georreferenciados em um mapa. 
 - **RF6:** O sistema terá na parte superior da tela uma área reservada para o requisito de dados através de um formulário. 
 - **RF7:** O sistema possuirá um formulário que irá considerar uma série de critérios de filtro, com data inicial, data final, tipo de variável meteorológica, estação ou ponto de monitoramento, frequência e operação matemática utilizada. 
 - **RF8:** O sistema terá no centro da tela terá um gráfico interativo. 
 - **RF9:** O sistema terá um gráfico que será dinâmico e adaptará a frequência temporal, representada no eixo horizontal, e a ordem de grandeza no vertical, ao tipo de variável exibida.
 - **RF10:** O sistema terá uma parte superior do gráfico que terá uma opção para selecionar quais variáveis serão exibidas. 
-- **RF11:** O sistema terá na parte inferior à esquerda da tela terá o mapa interativo com marcadores para cada ponto de monitoramento ou estação. 
-- **RF12:** O sistema terá marcadores terão cores de acordo com a situação meteorológica do local.
-- **RF13:** O sistema fará com que o  usuário possa interagir com os marcadores para obter mais informações do local.
+- **RF11:** O sistema terá na parte inferior à esquerda da tela o mapa interativo com marcadores para cada ponto de monitoramento ou estação. 
+- **RF12:** O sistema terá marcadores com cores de acordo com a situação meteorológica do local.
+- **RF13:** O sistema fará com que o usuário possa interagir com os marcadores para obter mais informações do local.
 - **RF14:** O sistema terá essa interação que pode ser feita através de um único clique ou a ferramenta de polígono para selecionar um ou mais marcadores.
-- **RF15:** O sistema terá uma parte inferior à direita da tela terá a tabela com as informações da área selecionada.
+- **RF15:** O sistema terá na parte inferior à direita da tela uma tabela com as informações da área selecionada.
 - **RF16:** O sistema fará com que o usuário seja capaz de exportar todas essas informações para os formatos CSV, PDF e PNG.
 - **RF17:** O sistema terá um botão para exportação que se encontrará logo acima do recurso desejado, ou seja, se o usuário deseja gerar um PNG do mapa, deverá procurar o botão logo acima do mapa.
 
