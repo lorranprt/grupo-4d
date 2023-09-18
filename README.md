@@ -70,11 +70,10 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 
 # Requisitos não-funcionais:
 
-	- RNF1: O software deve ser confiável, e ter o mínimo de falhas possível, não apresentando erros na maioria das vezes que for utilizado.
-	- RNF2: Só é aceitável uma pequena porcentagem de falhas.
-	- RNF3: O software deverá ter acessibilidade para mobile.
- 	- RNF4: Deverá ser feito em React.
-	- RNF5: O site deverá ser totalmente responsivo.
-
+- RNF1: O software deve ser confiável, e ter o mínimo de falhas possível, não apresentando erros na maioria das vezes que for utilizado.
+- RNF2: Só é aceitável uma pequena porcentagem de falhas.
+- RNF3: O software deverá ter acessibilidade para mobile.
+- RNF4: Deverá ser feito em React.
+- RNF5: O site deverá ser totalmente responsivo.
 
 
