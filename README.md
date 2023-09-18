@@ -55,7 +55,7 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 6. **Quanto?** R: O tempo de desenvolvimento do programador.
 
 # Propósito do Sistema:
-Apresentar os dados meteorológicos de forma organizada, para que possam ser adicionados, armazenados, editados e exportados com agilidade e facilidade, tendo um banco de dados para guardar as informações anteriores a fim de comparação. Além disso, ser adaptado para facilitar o uso e expandir os consumidores da plataforma.
+Apresentar os dados meteorológicos de forma organizada, para que possam ser adicionados, armazenados, editados e exportados com agilidade e facilidade, tendo um banco de dados para guardar as informações anteriores a fim de comparação e estudos. Além disso, ser adaptado para facilitar o uso e expandir os consumidores da plataforma.
 
 # Requisitos Funcionais:
 
