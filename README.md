@@ -12,7 +12,7 @@ Sua atuação como *construtech* está centrada na avaliação de riscos climát
 
 Sua abordagem inovadora torna as decisões dos gestores mais ágeis e precisas, resultando em uma redução significativa de prejuízos e um aumento notável na produtividade das operações de construção. A empresa está comprometida em oferecer soluções que ajudem a indústria da construção a enfrentar os desafios climáticos e a otimizar seus processos.
 ## Primeiro encontro com o cliente:
-Desafio proposto pelo centro de operações do RJ: Monitora a meteorologia (previsão e impacto de chuvas)
+Desafio proposto pelo centro de operações do RJ: Monitora a meteorologia (previsão e impacto de chuvas).
 Aprimorar a previsão de chuvas principalmente para a malha rodoviária, precisão para ajudar não só dentro da cidade mas também para o mercado de construção civil (obras na via, em lagos).
 
 #### O que a plataforma faz?
@@ -45,7 +45,7 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 # 5W2H
 1. **O que?** R: O sistema absorve os dados meteorológicos como: radares que monitoram as nuvens em tempo real.
 2. **Por que?** R: Para fornecer previsões por equações físicas e matemáticas para facilitar o planejamento da obra.
-3. **Quem?** R: Pessoas/Principalmente empresas que contratam o serviço (setores de planejamento, engenheiro, meteorologistas)
+3. **Quem?** R: Pessoas/Principalmente empresas que contratam o serviço (setores de planejamento, engenheiro, meteorologistas).
 4. **Quando?** R: A entrada de dados é feita o tempo todo. Porém a consulta do cliente depende do horário desejado, seja 24H direto ou um planejamento programado.
 6. **Como?** R: Será feita uma requisição de dados através de um formulário feita pelo usuário, os dados serão recuperados através de uma API e após isso será exportado no formato de arquivo de tabela.
 5. **Onde?** R: Será utilizado em situações de preparação de obras e em pesquisas meteorológicas.
