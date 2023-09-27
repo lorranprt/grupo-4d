@@ -55,7 +55,7 @@ Dinâmicos, adaptados a frequência temporal (eixo horizontal) ordem de grandeza
 
 O projeto tem como objetivo absorver os dados meteorológicos de forma organizada, para que possam ser adicionados, armazenados em um histórico de dados, editados e exportados, a fim de informar seus usuários das previsões desejadas.
 
-O propósito do novo sistema é aprimorar as funções para que a interface seja mais filtrada e interativa, com a requisição de dados facilitada por um formulário, marcadores mais eficientes e variados, e também esteticamente mais organizado. Além disso, ser adaptado para facilitar o uso e expandir os consumidores da plataforma.
+O propósito do novo sistema é aprimorar as funções para que a interface seja mais filtrada e interativa, com a requisição de dados facilitada por um formulário, marcadores de mapa mais eficientes e variados, e também esteticamente mais organizado. Além disso, ser adaptado para facilitar o uso e expandir os consumidores da plataforma.
 
 # Requisitos Funcionais:
 
