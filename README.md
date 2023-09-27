@@ -100,7 +100,8 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
 
 #### Caso de uso 2: Aprimoramento das previsões de chuva para obras nas redes de rodovias. 
  
-- **Ator principal**: Engenheiro de uma empresa de construção civil. 
+- **Ator principal**: Engenheiro de uma empresa de construção civil.
+
 - **Descrição do cenário**: Uma obra de construção civil em uma área de redes rodoviárias do Rio está sendo planejada pelo engenheiro. Então, a empresa de construção está preocupada com o clima e o tempo, pois o cronograma de obra pode ser atrasado se houver alguma chuva intensa, além de ser perigoso para os trabalhadores. 
 
 **Passos:**
