@@ -38,4 +38,6 @@ obrigatório
 casos de uso
 opcional telas
 
+USAR REACT ROUTER 6 
+
 
