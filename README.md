@@ -61,9 +61,9 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
 
 # Requisitos Funcionais:
 
-- **RF3:** O sistema terá 2 abas na área superior da tela, página principal e histórico de dados.
-- **RF4:** O sistema terá seus dados apresentados através de tabelas, gráficos (lineares, barras e vetores) e marcadores georreferenciados em um mapa. 
-- **RF5:** O sistema terá na parte superior da tela uma área reservada para o requisito de dados através de um formulário. 
+- **RF1:** O sistema terá 2 abas na área superior da tela, página principal e histórico de dados.
+- **RF2:** O sistema terá seus dados apresentados através de tabelas, gráficos (lineares, barras e vetores) e marcadores georreferenciados em um mapa. 
+- **RF3:** O sistema terá na parte superior da tela uma área reservada para o requisito de dados através de um formulário. 
 - **RF4:** O sistema possuirá um formulário que irá considerar uma série de critérios de filtro, com data inicial, data final, tipo de variável meteorológica, estação ou ponto de monitoramento, frequência e operação matemática utilizada. 
 - **RF5:** O sistema terá no centro da tela terá um gráfico interativo. 
 - **RF6:** O sistema terá um gráfico que será dinâmico e adaptará a frequência temporal, representada no eixo horizontal, e a ordem de grandeza no vertical, ao tipo de variável exibida.
