@@ -59,11 +59,6 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
 
 # Requisitos Funcionais:
 
-#### **Existentes**
-- **RF1:** O sistema deverá absorver e apresentar os dados meteorológicos e as equações matemáticas e físicas necessárias na tela principal. 
-- **RF2:** O sistema deverá ter uma aba histórico de dados, onde os dados serão armazenados para poderem ser posteriormente recuperados.
-
-####  **Novos**
 - **RF3:** O sistema terá 2 abas na área superior da tela, página principal e histórico de dados.
 - **RF4:** O sistema terá seus dados apresentados através de tabelas, gráficos (lineares, barras e vetores) e marcadores georreferenciados em um mapa. 
 - **RF5:** O sistema terá na parte superior da tela uma área reservada para o requisito de dados através de um formulário. 
@@ -89,7 +84,7 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
 
 #### Caso de uso 1: Armazenamento e análise de dados para estudos a longo prazo 
 
-- **Ator Principal**: Pesquisador de uma universidade. 
+- **Ator Principal**: Pesquisador. 
 - **Descrição do Cenário**: O pesquisador está fazendo um estudo a longo prazo sobre os padrões climáticos no Rio de Janeiro e seu impacto na construção civil ao longo dos anos. Ele precisará dos dados meteorológicos para sua pesquisa. 
 
 **Passos**: 
@@ -106,9 +101,8 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
 
 **Passos:**
  1. O engenheiro acessa a Nimbus e digita a localização da obra na rede rodoviária e o cronograma. 
- 2. A plataforma coleta dados meteorológicos em tempo real, contendo raios, ventos, chuvas, informações de radares, estações meteorológicas e umidade na região da obra. 
- 3. Utilizando equações físicas e matemáticas avançadas, a plataforma gera uma previsão das condições meteorológicas para a área da obra. 
- 4. O engenheiro, então, recebe a previsão meteorológica completa, com a probabilidade de chuvas intensas, a quantidade esperada de precipitação e as recomendações de segurança. 
- 5. Após a previsão, o engenheiro pode modificar o cronograma da obra, realocar recursos e tomar medidas para que a construção ocorra de forma eficiente e segura, diminuindo o impacto que as chuvas iriam causar. 
+ 2. A plataforma coleta dados meteorológicos recentes na região, como raios, ventos, chuvas, informações de radares, estações meteorológicas e umidade. 
+ 3. Com os dados, o engenheiro se baseia no histórico para analisar e praparar área que será efetuada a obra.  
+ 4. Após a análise, o engenheiro pode modificar o cronograma da obra, realocar recursos e tomar medidas para que a construção ocorra de forma eficiente e segura, se previnindo de possíveis impactos. 
 
 
