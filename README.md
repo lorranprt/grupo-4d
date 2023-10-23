@@ -3,6 +3,8 @@
 Integrantes:
 **Lorran Porto**, **Hannah Martins**, **Guilherme Vallim** e **João Gois**
 
+Esse é o documentário do seguinte código: [link](https://github.com/Banannahzs/software-grupo4d)
+https://github.com/Banannahzs/software-grupo4d
 # PROJETO FRONT-END GRUPO 4D
 
 ## Sobre a empresa:
