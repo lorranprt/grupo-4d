@@ -86,7 +86,8 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
 
 #### Caso de uso 1: Armazenamento e análise de dados para estudos a longo prazo 
 
-- **Ator Principal**: Pesquisador. 
+- **Ator Principal**: Pesquisador.
+  
 - **Descrição do Cenário**: O pesquisador está fazendo um estudo a longo prazo sobre os padrões climáticos no Rio de Janeiro e seu impacto na construção civil ao longo dos anos. Ele precisará dos dados meteorológicos para sua pesquisa. 
 
 **Passos**: 
@@ -99,12 +100,12 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
  
 - **Ator principal**: Engenheiro de uma empresa de construção civil.
 
-- **Descrição do cenário**: Uma obra de construção civil em uma área de redes rodoviárias do Rio está sendo planejada pelo engenheiro. Então, a empresa de construção está preocupada com o clima e o tempo, pois o cronograma de obra pode ser atrasado se houver alguma chuva intensa, além de ser perigoso para os trabalhadores. 
+- **Descrição do Cenário**: Uma obra de construção civil em uma área de redes rodoviárias do Rio está sendo planejada pelo engenheiro. Então, a empresa de construção está preocupada com o clima e o tempo, pois o cronograma de obra pode ser atrasado se houver alguma chuva intensa, além de ser perigoso para os trabalhadores. 
 
 **Passos:**
  1. O engenheiro acessa a Nimbus e digita a localização da obra na rede rodoviária e o cronograma. 
  2. A plataforma coleta dados meteorológicos recentes na região, como raios, ventos, chuvas, informações de radares, estações meteorológicas e umidade. 
- 3. Com os dados, o engenheiro se baseia no histórico para analisar e praparar área que será efetuada a obra.  
- 4. Após a análise, o engenheiro pode modificar o cronograma da obra, realocar recursos e tomar medidas para que a construção ocorra de forma eficiente e segura, se previnindo de possíveis impactos. 
+ 3. Com os dados, o engenheiro se baseia no histórico para analisar e preparar área que será efetuada a obra.  
+ 4. Após a análise, o engenheiro pode modificar o cronograma da obra, realocar recursos e tomar medidas para que a construção ocorra de forma eficiente e segura, se prevenindo de possíveis impactos. 
 
 
