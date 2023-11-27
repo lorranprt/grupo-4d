@@ -84,28 +84,31 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
 
 # Casos de Uso:
 
-#### Caso de uso 1: Armazenamento e análise de dados para estudos a longo prazo 
+#### Caso de uso 1: Exportar dados
 
 - **Ator Principal**: Pesquisador.
   
 - **Descrição do Cenário**: O pesquisador está fazendo um estudo a longo prazo sobre os padrões climáticos no Rio de Janeiro e seu impacto na construção civil ao longo dos anos. Ele precisará dos dados meteorológicos para sua pesquisa. 
 
 **Passos**: 
-1. O pesquisador acessa a plataforma da Nimbus Meteorologia e busca os dados meteorológicos necessários, como histórico de chuvas, ventos e umidade no Rio de Janeiro nos últimos. 
-2. A plataforma busca no banco de dados, todos os dados solicitados e apresenta para o usuário. 
-3. O pesquisador visualiza as informações através dos gráficos, tabelas e mapas para fazer sua análise. Utilizando esses dados, ele estuda para identificar tendências climáticas e outros padrões da região.
-4. Os resultados da pesquisa ajudam a comunidade científica e a indústria da construção civil a compreender melhor os desafios meteorológicos da região para desenvolver estratégias de adaptação para amenizar riscos.
+1. O pesquisador acessa a plataforma da Nimbus Meteorologia e abre a aba de gráficos e de tabela para baixar os dados.
+2. O pesquisador escolhe no formulário de filtro os dados especificos que deseja saber.
+3. A plataforma exibe as informações através dos gráficos e tabelas considerando os filtros.
+4. O pesquisador clica nas opções de exportar para PDF.
+5. Assim, são baixados arquivos com os dados procurados.
 
-#### Caso de uso 2: Aprimoramento das previsões de chuva para obras nas redes de rodovias. 
+#### Caso de uso 2: Exibir dados via histórico 
  
 - **Ator principal**: Engenheiro de uma empresa de construção civil.
 
-- **Descrição do Cenário**: Uma obra de construção civil em uma área de redes rodoviárias do Rio está sendo planejada pelo engenheiro. Então, a empresa de construção está preocupada com o clima e o tempo, pois o cronograma de obra pode ser atrasado se houver alguma chuva intensa, além de ser perigoso para os trabalhadores. 
+- **Descrição do Cenário**: O engenheiro deseja efetuar ma obra de construção civil em uma área do Rio. Então, a empresa de construção se preocupa em procurar saber como costuma ser o clima e o tempo a fim de evitar contratempos. 
 
 **Passos:**
- 1. O engenheiro acessa a Nimbus e digita a localização da obra na rede rodoviária e o cronograma. 
- 2. A plataforma coleta dados meteorológicos recentes na região, como raios, ventos, chuvas, informações de radares, estações meteorológicas e umidade. 
- 3. Com os dados, o engenheiro se baseia no histórico para analisar e preparar área que será efetuada a obra.  
- 4. Após a análise, o engenheiro pode modificar o cronograma da obra, realocar recursos e tomar medidas para que a construção ocorra de forma eficiente e segura, se prevenindo de possíveis impactos. 
+1. O engenheiro acessa a plataforma da Nimbus Meteorologia e abre a aba de mapa.
+2. O engenheiro escolhe no mapa a área que a obra será realizada.
+3. A plataforma exibe em tempo real no mapa o clima.
+4. O engenheiro abre a aba de gráficos e de tabela.
+5. O engenheiro acessa os dados da área desejada.
+6. Assim, o engenheiro saberá as informações necessárias de determinada área.
 
 
