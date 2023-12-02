@@ -3,7 +3,7 @@
 Integrantes:
 **Lorran Porto**, **Hannah Martins**, **Guilherme Vallim** e **João Gois**
 
-Esse é o documentário do seguinte código: [link](https://github.com/lorranprt/nimbus-software/tree/main)
+Esse é o documentário do seguinte código: [link]([https://github.com/lorranprt/nimbus-software/tree/main](https://github.com/GuilhermeVA/Nimbus.git))
 
 # PROJETO FRONT-END GRUPO 4D
 
