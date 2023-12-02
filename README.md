@@ -104,7 +104,7 @@ O propósito do novo sistema é aprimorar as funções para que a interface seja
 - **Descrição do Cenário**: O engenheiro deseja efetuar ma obra de construção civil em uma área do Rio. Então, a empresa de construção se preocupa em procurar saber como costuma ser o clima e o tempo a fim de evitar contratempos. 
 
 **Passos:**
-1. O engenheiro acessa a plataforma da Nimbus Meteorologia e abre a aba de mapa.
+1. O engenheiro acessa a plataforma da Nimbus Meteorologia e escolhe no formulário de filtro os dados especificos que deseja saber.
 2. O engenheiro escolhe no mapa a área que a obra será realizada.
 3. A plataforma exibe em tempo real no mapa o clima.
 4. O engenheiro abre a aba de gráficos e de tabela.
